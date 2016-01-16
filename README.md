@@ -13,3 +13,6 @@ Face Detector that detect faces by using <a href="http://opencv.org/" target="_b
 
 #####Screenshot
 ![image2](/res/sc1.png)
+
+##v1.0
+version
