@@ -11,10 +11,5 @@ Face Detector that detect faces by using <a href="http://opencv.org/" target="_b
 #####Functionality
 * you can also Snap pictures
 
-#####Screenshots
+#####Screenshot
 ![image2](/res/sc1.png)
-
-![image3](/res/sc2.png)
-
-##v1.0
-Version
