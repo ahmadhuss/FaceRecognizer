@@ -13,7 +13,7 @@ public class OurFrame extends JFrame {
 
 	// constructor
 	public OurFrame() {
-		super("Motion Detect v1.0");
+		super("Face Detect v1.0");
 
 		ImageIcon icon = new ImageIcon(getClass().getResource("8.png"));
 
