@@ -1,7 +1,7 @@
 # FaceRecognizer
 Face Detector that detect faces by using <a href="http://opencv.org/" target="_blank">OpenCV</a> library.OpenCV provides different classifiers for detecting objects but in this i'm using frontal face, Also OpenCV has many Haar Classifiers that used for different types of motion detections like object,eyes hands etc in which you can modify your histogram.You can check documentation of this by visiting their site.
 
-![image1](/res/sc0.png)
+![image1](/res/mc0.png)
 
 #####How can we use this code to your IDE.
 * You can use this source code in your ide
@@ -12,7 +12,7 @@ Face Detector that detect faces by using <a href="http://opencv.org/" target="_b
 * you can also Snap pictures
 
 #####Screenshot
-![image2](/res/sc1.png)
+![image2](/res/mc1.png)
 
 ##v1.0
 version
