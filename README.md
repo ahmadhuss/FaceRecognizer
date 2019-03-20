@@ -1,5 +1,5 @@
 # FaceRecognizer
-Face Detector that detect faces by using <a href="http://opencv.org/" target="_blank">OpenCV</a> library.OpenCV provides different classifiers for detecting objects but in this, I'm using frontal face, Also OpenCV has many Haar Classifiers that used for different types of motion detections like object, eyes hands etc in which you can modify your histogram. You can check the documentation of this by visiting their site.
+Face Detector that detect faces by using <a href="http://opencv.org/" target="_blank">OpenCV</a> library. OpenCV provides different classifiers for detecting objects but in this, I'm using frontal face, Also OpenCV have many Haar Classifiers that used for different types of motion detections like object, eyes hands etc. You can check the documentation of this by visiting their site.
 
 ![image1](/res/mc0.png)
 
@@ -11,7 +11,7 @@ Face Detector that detect faces by using <a href="http://opencv.org/" target="_b
 ##### Functionality
 * you can also Snap pictures
 
-#####Screenshot
+##### Screenshot
 ![image2](/res/mc1.png)
 
 ## v1.0
